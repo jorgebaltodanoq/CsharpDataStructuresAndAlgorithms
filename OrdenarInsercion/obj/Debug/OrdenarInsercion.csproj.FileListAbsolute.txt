@@ -1,0 +1,7 @@
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\bin\Debug\OrdenarInsercion.exe.config
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\bin\Debug\OrdenarInsercion.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\bin\Debug\OrdenarInsercion.pdb
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\obj\Debug\OrdenarInsercion.csproj.CoreCompileInputs.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\obj\Debug\OrdenarInsercion.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\obj\Debug\OrdenarInsercion.pdb
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\OrdenarInsercion\obj\Debug\OrdenarInsercion.csprojAssemblyReference.cache
