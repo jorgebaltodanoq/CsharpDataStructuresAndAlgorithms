@@ -1,18 +1,22 @@
-# C# DATa STRUCTURES AND ALGORITHMS
+# C# DATA STRUCTURES AND ALGORITHMS
 
 > By Marcin Jamro
+### Características clave
+Master array, set y map con árboles y gráficos, entre otras estructuras de datos fundamentales
+Profundice en técnicas de diseño e implementación efectivas para satisfacer sus requisitos de software
+Explore ilustraciones para presentar estructuras de datos y algoritmos, así como su análisis de una manera clara y visual.
 
 ### Whats you will learn
-* Understand and use SQL with databases
-* Introduction to Microsoft SQL Server
-* Understanding conditions
-* Playing around with tables.
-* Working with functions
+* How to use arrays and lists to get better results in complex scenarios
+* Implement algorithms like the Tower of Hanoi on stacks of C# objects
+* Build enhanced applications by using hashtables, dictionaries and sets
+* Make a positive impact on efficiency of applications with tree traversal
+*Effectively find the shortest path in the graph
 
 ### About of books
-In this course, I'll teach you the Structured Query Language—SQL for short—the fast and easy way. We'll download and use the free trial version of Microsoft SQL Server and I'll teach you exactly how to use it like a pro. Databases are incredibly important in our modern world, and they remain a mystery to most people. But they're easy to use if you know just a few things...and I'll teach you those things in this course.
+Data structures allow organizing data efficiently. They are critical to various problems and their suitable implementation can provide a complete solution that acts like reusable code. In this book, you will learn how to use various data structures while developing in the C# language as well as how to implement some of the most common algorithms used with such data structures.
 
-We'll start out by learning fundamental database concepts, such as: What is a database, What is a table, What are rows and columns, and What are data types? After that, I'll show you how to set up and use Microsoft SQL Server.
+At the beginning, you will get to know arrays, lists, dictionaries, and sets together with real-world examples of your application. Then, you will learn how to create and use stacks and queues. In the following part of the book, the more complex data structures will be introduced, namely trees and graphs, together with some algorithms for searching the shortest path in a graph. We will also discuss how to organize the code in a manageable, consistent, and extendable way. By the end of the book,you will learn how to build components that are easy to understand, debug, and use in different applications.
 
 
 <a href="https://imgbb.com/"><img src="https://static.packt-cdn.com/products/9781788833738/cover/smaller" alt="smaller" border="0"></a>
