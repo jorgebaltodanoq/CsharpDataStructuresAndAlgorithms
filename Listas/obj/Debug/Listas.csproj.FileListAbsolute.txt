@@ -1,0 +1,7 @@
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\bin\Debug\Listas.exe.config
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\bin\Debug\Listas.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\bin\Debug\Listas.pdb
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\obj\Debug\Listas.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\Listas\obj\Debug\Listas.pdb
