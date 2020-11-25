@@ -1,6 +1,6 @@
-# Learn SQL with Microsoft SQL Server 2019
+# C# DATa STRUCTURES AND ALGORITHMS
 
-> By John Elder May 2019, Understanding Databases and SQL
+> By Marcin Jamro
 
 ### Whats you will learn
 * Understand and use SQL with databases
@@ -15,4 +15,4 @@ In this course, I'll teach you the Structured Query Language—SQL for short—t
 We'll start out by learning fundamental database concepts, such as: What is a database, What is a table, What are rows and columns, and What are data types? After that, I'll show you how to set up and use Microsoft SQL Server.
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/pypwqSL/smaller.png" alt="smaller" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://static.packt-cdn.com/products/9781788833738/cover/smaller" alt="smaller" border="0"></a>
