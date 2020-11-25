@@ -1,7 +1,7 @@
 # C# DATA STRUCTURES AND ALGORITHMS
 
 > By Marcin Jamro
-### Características clave
+### Key features
 Master array, set y map con árboles y gráficos, entre otras estructuras de datos fundamentales
 Profundice en técnicas de diseño e implementación efectivas para satisfacer sus requisitos de software
 Explore ilustraciones para presentar estructuras de datos y algoritmos, así como su análisis de una manera clara y visual.
