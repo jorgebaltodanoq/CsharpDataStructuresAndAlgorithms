@@ -5,3 +5,10 @@ D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\SortedList\obj\Debug\So
 D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
 D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\SortedList\obj\Debug\SortedList.exe
 D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\SortedList\obj\Debug\SortedList.pdb
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\bin\Debug\SortedList.exe.config
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\bin\Debug\SortedList.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\bin\Debug\SortedList.pdb
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\obj\Debug\SortedList.csprojAssemblyReference.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\obj\Debug\SortedList.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\SortedList\obj\Debug\SortedList.pdb

@@ -10,7 +10,7 @@ namespace SortedList
     {
         public string Name { get; set; }
         public int Age { get; set; }
-        public PaisesEnum Pais { get; set; }
+        public EnumPais Pais { get; set; }
 
     }
 }

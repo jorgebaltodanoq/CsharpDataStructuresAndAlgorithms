@@ -6,16 +6,17 @@ using System.Threading.Tasks;
 
 namespace SortedList
 {
-    public enum PaisesEnum
+    public enum EnumPais
     {
-        PER,
-        ARG,
-        CHI,
-        PAR,
-        BOL,
         BRA,
+        ARG,
+        PER,
+        CHI,
+        BOL,
+        PAR,
         URU,
-        VEN,
-        ECU
+        ECU,
+        COL,
+        VEN
     }
 }
