@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SortedList
+namespace LinkedList
 {
-    class Extesiones
+    class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }

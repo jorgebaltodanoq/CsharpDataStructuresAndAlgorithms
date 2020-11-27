@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{049083A2-F7EE-448C-8537-03AA62A8E717}</ProjectGuid>
+    <ProjectGuid>{D23B0053-58B3-4B60-9DC4-8EBC09502170}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SortedList</RootNamespace>
-    <AssemblyName>SortedList</AssemblyName>
+    <RootNamespace>LinkedList</RootNamespace>
+    <AssemblyName>LinkedList</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Extensiones.cs" />
-    <Compile Include="Pais.cs" />
-    <Compile Include="Persona.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
