@@ -1,0 +1,7 @@
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\bin\Debug\LinkedList.exe.config
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\bin\Debug\LinkedList.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\bin\Debug\LinkedList.pdb
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\obj\Debug\LinkedList.exe
+D:\DESARROLLOAPP2020\CSHARP\LearnCsharp09EstructuraDatos\CsharpDataStructuresAndAlgorithms\LinkedList\obj\Debug\LinkedList.pdb
